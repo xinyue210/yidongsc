@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1306",
+      "name": "购物车空",
+      "font_class": "gouwuchekong",
+      "unicode": "f0179",
+      "unicode_decimal": 983417
+    },
+    {
+      "icon_id": "56998",
+      "name": "天猫-七天退货",
+      "font_class": "tianmaoqitiantuihuo",
+      "unicode": "f0079",
+      "unicode_decimal": 983161
+    },
+    {
+      "icon_id": "57001",
+      "name": "天猫-提供发票",
+      "font_class": "tianmaotigongfapiao",
+      "unicode": "f007c",
+      "unicode_decimal": 983164
+    },
+    {
+      "icon_id": "4942663",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "6265251",
+      "name": "菜单栏",
+      "font_class": "list2",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "14469861",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "17863627",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
